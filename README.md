@@ -1,3 +1,5 @@
+# THIS PROJECT HAS MOVED TO [SOURCEHUT](https://git.sr.ht/~raiguard/BottleneckLite)
+
 # Bottleneck Lite
 
 Bottleneck Lite is a mod for Factorio that helps you find bottlenecks in your factory. It is inspired by the [Bottleneck](https://mods.factorio.com/mod/Bottleneck) mod, but takes advantage of newer API features to eliminate _all_ runtime overhead and improve responsiveness.
